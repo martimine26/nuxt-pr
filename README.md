@@ -1,4 +1,4 @@
-# site-iri
+# nuxt-pr.github.io
 
 > My shining Nuxt.js project
 
